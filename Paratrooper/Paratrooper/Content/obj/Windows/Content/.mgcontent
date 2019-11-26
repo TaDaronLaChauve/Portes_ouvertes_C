@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/Arial.spritefont</File>
+    <File>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/backgroundSolSocle.jpg</File>
+    <File>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/ballTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/bonus.png</File>
+    <File>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/canonTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/GrosNuage.png</File>
+    <File>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/Images/Button.png</File>
+    <File>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/persoTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/PetitsNuages.png</File>
+    <File>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/skyDiverTrans.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
