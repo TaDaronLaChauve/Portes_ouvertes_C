@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/backgroundSolSocle.jpg</SourceFile>
+  <SourceFile>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/backgroundSolSocle.jpg</SourceFile>
   <SourceTime>2019-11-26T08:40:57.16504+01:00</SourceTime>
-  <DestFile>C:/Users/wohlersl/Desktop/Paratrooper/Paratrooper/Paratrooper/Content/bin/Windows/Content/backgroundSolSocle.xnb</DestFile>
-  <DestTime>2019-11-26T08:41:21.3243699+01:00</DestTime>
+  <DestFile>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/bin/Windows/Content/backgroundSolSocle.xnb</DestFile>
+  <DestTime>2019-11-26T10:26:48.7467763+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

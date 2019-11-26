@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/../../img/buttons.png</SourceFile>
+  <SourceFile>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/../../img/buttons.png</SourceFile>
   <SourceTime>2019-11-26T08:00:54.5391649+01:00</SourceTime>
-  <DestFile>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/bin/Windows/Content/buttons.xnb</DestFile>
-  <DestTime>2019-11-26T08:01:11.3967853+01:00</DestTime>
+  <DestFile>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/bin/Windows/Content/buttons.xnb</DestFile>
+  <DestTime>2019-11-26T10:12:39.3398351+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -210,10 +210,21 @@ namespace helloWorld
 
                 if (count == 10)
                 {
-                    if (keyState.IsKeyUp(Keys.Space))
+                    if (keyState.IsKeyDown(Keys.Space) || keyState.IsKeyDown(Keys.G))
                     {
-                        
-                        player.Speed = 10;
+                        //If the space bar is "cliked", the player stop shooting lasers but he increases his move speed
+                        if (bigLaserGauche != null)
+                        {
+                            lasers.Remove(bigLaserGauche);
+                            lasers.Remove(bigLaserDroit);
+                            initializeBigLasers = 0;
+                        }
+                        player.Speed = 16;
+
+                    }
+                    else
+                    {
+                    player.Speed = 10;
                         //Switch that deppending on the current fire mode of the player, add the lasers on the list
                         switch (playerShootMode)
                         {
@@ -250,17 +261,7 @@ namespace helloWorld
                                 }
                                 break;
                         }
-                    }
-                    else
-                    {
-                        //If the space bar is "cliked", the player stop shooting lasers but he increases his move speed
-                        if (bigLaserGauche != null)
-                        {
-                            lasers.Remove(bigLaserGauche);
-                            lasers.Remove(bigLaserDroit);
-                            initializeBigLasers = 0;
-                        }
-                        player.Speed = 16;
+                            
                     }
                     count = 0;
                 }
@@ -299,7 +300,7 @@ namespace helloWorld
                 incrementDroit--;
                 countInvaders++;
                 //Add boost on the list of boosts
-                if (randomBoostTime >= rnd.Next(300,650))
+                if (randomBoostTime >= rnd.Next(400,2000))
                 {
                     boosts.Add(new Boost(new Vector2(rnd.Next(0, screenSizeWidth - 10), -50), boostTab[rnd.Next(0, boostTab.Length)], rnd.Next(2, 5)));
                     randomBoostTime = 0;

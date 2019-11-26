@@ -4,16 +4,16 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/Arial.spritefont</File>
-    <File>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/backgroundSolSocle.jpg</File>
-    <File>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/ballTrans.png</File>
-    <File>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/bonus.png</File>
-    <File>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/canonTrans.png</File>
-    <File>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/GrosNuage.png</File>
-    <File>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/Images/Button.png</File>
-    <File>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/persoTrans.png</File>
-    <File>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/PetitsNuages.png</File>
-    <File>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/skyDiverTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/Arial.spritefont</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/backgroundSolSocle.jpg</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/ballTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/bonus.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/canonTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/GrosNuage.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/Images/Button.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/persoTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/PetitsNuages.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/skyDiverTrans.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

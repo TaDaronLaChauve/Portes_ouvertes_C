@@ -63,19 +63,18 @@ namespace Paratrooper
         const int NB_ENNEMIS_IMMOBILES = 10;
         const int NB_PARACHUTISTES_MAX_DERNIERE_VAGUE = 21;
         int score;
-        bool bonusVisible;
         bool menu = false;
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
-            
-            //Pour l'affichage en FullScreen
 
-            //graphics.IsFullScreen = true;
-            //graphics.GraphicsProfile = GraphicsProfile.HiDef;
-            //graphics.PreferredBackBufferHeight = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;
-            //graphics.PreferredBackBufferWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
-            //graphics.ApplyChanges();
+            //Pour l'affichage en FullScreen
+            graphics.IsFullScreen = true;
+            graphics.GraphicsProfile = GraphicsProfile.HiDef;
+            graphics.PreferredBackBufferHeight = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;
+            graphics.PreferredBackBufferWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
+            graphics.ApplyChanges();
+
             Content.RootDirectory = "Content";
         }
 
@@ -129,8 +128,7 @@ namespace Paratrooper
             nbParachutistesMaxParVague = 3;
 
             score = 0;
-
-            bonusVisible = false;
+            
             //Le temps que le bonus sera actif
             DureeBonus = TimeSpan.FromSeconds(5);
             anciensDureeBonus = TimeSpan.Zero;
@@ -339,7 +337,7 @@ namespace Paratrooper
                 {
                     listeParachutistes.Add(new Parachutiste(this));
                     listeParachutistes[listeParachutistes.Count - 1].LoadContent(Content.Load<Texture2D>("skyDiverTrans"));
-                    listeParachutistes[listeParachutistes.Count - 1].Initialize(new Vector2(rd.Next(0, GraphicsDevice.Viewport.Width - listeParachutistes[listeParachutistes.Count - 1]._width), 0));
+                    listeParachutistes[listeParachutistes.Count - 1].Initialize(new Vector2(rd.Next(0, GraphicsDevice.Viewport.Width - listeParachutistes[listeParachutistes.Count - 1]._width), -listeParachutistes[0]._height));
                 }
             }
             //Parcours la liste pour les actualiser et voir s'ils arrivent sur le sol

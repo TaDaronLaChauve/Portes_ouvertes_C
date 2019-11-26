@@ -4,25 +4,25 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/../../img/bigLaser.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/../../img/buttons.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/../../img/buttonsDead.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/../../img/doubleLaserBoost.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/../../img/Invader.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/../../img/mainBackground.jpg</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/../../img/redLaser.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/../../img/TripleShootBoost.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/Arial.spritefont</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/black.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/explosion.gif</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/laser.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/LifeBar.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/LifeBarRed.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/oui.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/ScoreFont.spritefont</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/spriteGif_explostion.png</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/Title.spritefont</File>
-    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/helloWorld/Content/yellowLaser.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/../../img/bigLaser.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/../../img/buttons.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/../../img/buttonsDead.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/../../img/doubleLaserBoost.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/../../img/Invader.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/../../img/mainBackground.jpg</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/../../img/redLaser.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/../../img/TripleShootBoost.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/Arial.spritefont</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/black.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/explosion.gif</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/laser.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/LifeBar.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/LifeBarRed.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/oui.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/ScoreFont.spritefont</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/spriteGif_explostion.png</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/Title.spritefont</File>
+    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/SpaceInvaders/helloWorld/Content/yellowLaser.png</File>
   </SourceFiles>
   <DestFiles>
     <File>bigLaser.png</File>

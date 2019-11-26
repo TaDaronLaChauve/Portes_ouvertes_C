@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/persoTrans.png</SourceFile>
-  <SourceTime>2019-10-08T07:32:47.2358276+02:00</SourceTime>
-  <DestFile>C:/Users/wohlersl/Desktop/ParatrooperV3e/Paratrooper - Copie/Paratrooper/Content/bin/Windows/persoTrans.xnb</DestFile>
-  <DestTime>2019-10-08T08:03:49.2922573+02:00</DestTime>
+  <SourceFile>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/persoTrans.png</SourceFile>
+  <SourceTime>2019-11-26T12:53:12.8008081+01:00</SourceTime>
+  <DestFile>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/bin/Windows/persoTrans.xnb</DestFile>
+  <DestTime>2019-11-26T12:53:32.8680553+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
