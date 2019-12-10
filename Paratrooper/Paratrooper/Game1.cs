@@ -6,6 +6,7 @@
  *                  avant qu'ils ne touchent le sol.
  */
 using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
@@ -28,7 +29,11 @@ namespace Paratrooper
         
         Canon canon;
 
-        
+        Texture2D logoCFPT;
+        Texture2D schemaBoutons;
+
+        SoundEffect hommeMourant1;
+        SoundEffect hommeMourant2;
         Bonus bonus;
         BonusCanon bonusCanon;
         List<Canon> listeCanons;
@@ -57,7 +62,7 @@ namespace Paratrooper
         List<Component> _gameComponents;
         //Le score est le nombre d'ennemis tués
         SpriteFont font;
-
+        
         int nbParachutistesMaxParVague;
         //Nombre d'ennemis au sol nécessaire pour mourire
         const int NB_ENNEMIS_IMMOBILES = 10;
@@ -154,7 +159,11 @@ namespace Paratrooper
 
             listeCanons[listeCanons.Count - 1].LoadContent(Content.Load<Texture2D>("canonTrans"));
 
-            
+            hommeMourant1 = Content.Load<SoundEffect>("man-dying1");
+            hommeMourant2 = Content.Load<SoundEffect>("man-dying2");
+
+            logoCFPT = Content.Load<Texture2D>("CFPT");
+            schemaBoutons = Content.Load<Texture2D>("SchemaBoutons");
 
             //Déclaration des bouttons avec leur positions, texte, image
             font = Content.Load<SpriteFont>("Arial");
@@ -198,24 +207,34 @@ namespace Paratrooper
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape) || Keyboard.GetState().IsKeyDown(Keys.D6))
             {
                 //Exit();
-                foreach (var component in _gameComponents)
-                    component.Update(gameTime);
+                //foreach (var component in _gameComponents)
+                //    component.Update(gameTime);
                 menu = true;
             }
-                
-
-            UpdateCanon(gameTime);
-            UpdateBonus(gameTime);
-            UpdateBoulet(gameTime);
-            UpdateParachutiste(gameTime);
+            if (Keyboard.GetState().IsKeyDown(Keys.D6))
+            {
+                Restart();
+            }
+            if (Keyboard.GetState().IsKeyDown(Keys.D0))
+            {
+                Exit();
+            }
+            if (menu == false)
+            {
+                UpdateCanon(gameTime);
+                UpdateBonus(gameTime);
+                UpdateBoulet(gameTime);
+                UpdateParachutiste(gameTime);
+            }
+            
             
             bgGrosNuage.Update(gameTime);
             bgPetitsNuages.Update(gameTime);
             //Si le nombre d'ennemis maximal à terre a été atteint alors on update nos boutons pour les afficher ensuite
             if (listeParachutistesImmobile.Count >= NB_ENNEMIS_IMMOBILES || menu == true)
             {
-                foreach (var component in _gameComponents)
-                    component.Update(gameTime);
+                //foreach (var component in _gameComponents)
+                //    component.Update(gameTime);
                 anciensTempsApparitionBonus = gameTime.TotalGameTime;
                 anciensTempsApparitionBonusCanon = gameTime.TotalGameTime;
             }
@@ -230,12 +249,12 @@ namespace Paratrooper
                 
             }
             //Petit bonus fun caché pour ajouter énormément de canon :)
-            if (Keyboard.GetState().IsKeyDown(Keys.C))
-            {
-                listeCanons.Add(new Canon(this));
-                listeCanons[listeCanons.Count - 1].LoadContent(Content.Load<Texture2D>("canonTrans"));
-                listeCanons[listeCanons.Count - 1].Initialize(new Vector2(rd.Next(1, 105) * (GraphicsDevice.Viewport.Width / 100), 7 * (GraphicsDevice.Viewport.Height / 8)), 400, listeCanons[0].Rotation);
-            }
+            //if (Keyboard.GetState().IsKeyDown(Keys.C) || Keyboard.GetState().IsKeyDown(Keys.N))
+            //{
+            //    listeCanons.Add(new Canon(this));
+            //    listeCanons[listeCanons.Count - 1].LoadContent(Content.Load<Texture2D>("canonTrans"));
+            //    listeCanons[listeCanons.Count - 1].Initialize(new Vector2(rd.Next(1, 105) * (GraphicsDevice.Viewport.Width / 100), 7 * (GraphicsDevice.Viewport.Height / 8)), 400, listeCanons[0].Rotation);
+            //}
             base.Update(gameTime);
         }
         /// <summary>
@@ -300,6 +319,12 @@ namespace Paratrooper
                             listeParachutistes.Remove(p);
                             canon.ListeBoulets.Remove(b);
                             sortirBoulet = true;
+
+                            int crie = rd.Next(0, 2);
+                            if (crie == 0)
+                                hommeMourant1.Play(0.1f, 0.0f, 0.0f);
+                            if (crie == 1)
+                                hommeMourant2.Play(0.06f, 0.0f, 0.0f);
                         }
                         if (sortirBoulet)
                             break;
@@ -411,6 +436,8 @@ namespace Paratrooper
             bgPetitsNuages.Draw(spriteBatch);
             bgGrosNuage.Draw(spriteBatch);
 
+            spriteBatch.Draw(logoCFPT, new Rectangle(5, 5, logoCFPT.Width/4, logoCFPT.Height/4), Color.White);
+            
             //Si ce n'est pas fini on dessine les parachutistes et les boulets
             if (listeParachutistesImmobile.Count < NB_ENNEMIS_IMMOBILES && menu == false)
             {
@@ -431,9 +458,11 @@ namespace Paratrooper
             }
             else//Autrement on arrête de les dessiner et on dessine les boutons et le curseur
             {
-                IsMouseVisible = true;
-                foreach (var component in _gameComponents)
-                    component.Draw(gameTime, spriteBatch);
+                menu = true;
+                spriteBatch.Draw(schemaBoutons, new Rectangle((GraphicsDevice.Viewport.Width / 2) - (schemaBoutons.Width / 10), (GraphicsDevice.Viewport.Height / 2) - (schemaBoutons.Height / 10), schemaBoutons.Width/5, schemaBoutons.Height/5), Color.White);
+                //IsMouseVisible = true;
+                //foreach (var component in _gameComponents)
+                //    component.Draw(gameTime, spriteBatch);
             }
 
             //Dessine chacun des parachutistes qui se trouvent sur le sol
@@ -461,6 +490,12 @@ namespace Paratrooper
             IsMouseVisible = false;
             menu = false;
             
+        }
+        private void Restart()
+        {
+            Initialize();
+            LoadContent();
+            menu = false;
         }
         private void QuitButton_Click(object sender, System.EventArgs e)
         {

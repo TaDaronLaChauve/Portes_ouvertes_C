@@ -56,6 +56,12 @@
 /processorParam:TextureFormat=Color
 /build:bonus.png
 
+#begin canonShot2.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:canonShot2.wav
+
 #begin canonTrans.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -67,6 +73,18 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:canonTrans.png
+
+#begin CFPT.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:CFPT.png
 
 #begin GrosNuage.png
 /importer:TextureImporter
@@ -92,6 +110,18 @@
 /processorParam:TextureFormat=Color
 /build:Images/Button.png
 
+#begin man-dying1.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:man-dying1.wav
+
+#begin man-dying2.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:man-dying2.wav
+
 #begin persoTrans.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -115,6 +145,18 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:PetitsNuages.png
+
+#begin SchemaBoutons.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:SchemaBoutons.png
 
 #begin skyDiverTrans.png
 /importer:TextureImporter

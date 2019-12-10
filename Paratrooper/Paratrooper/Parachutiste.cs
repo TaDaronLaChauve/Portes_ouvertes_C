@@ -28,7 +28,7 @@ namespace Paratrooper
         public override void Update(GameTime gameTime)
         {
             //On fait avancer le parachutiste
-            _position.Y += 1.5f;
+            _position.Y += 1.9f;
         }
     }
 }

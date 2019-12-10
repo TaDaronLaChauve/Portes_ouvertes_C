@@ -31,7 +31,7 @@ namespace Paratrooper
         public override void Update(GameTime gameTime)
         {
             //On fait avancer le bonus
-            _position.Y += 2f;
+            _position.Y += 2.4f;
         }
         public void Apparition(string img)
         {

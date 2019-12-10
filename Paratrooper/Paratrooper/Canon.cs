@@ -6,6 +6,7 @@
  * Hérite de :      SpriteGeneric.cs
  */
 using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
@@ -20,6 +21,7 @@ namespace Paratrooper
     {
         public Vector2 spriteOriginCanon;
         float _rotation;
+        SoundEffect canonShot;
         int _vitesseSpawnBouletInitial = 200;
         //A quel intervale de temps les boulets peuvent être tirés
         TimeSpan _bouletSpawnTime;
@@ -43,6 +45,7 @@ namespace Paratrooper
 
         public Canon(Game game) : base(game)
         {
+            canonShot = game.Content.Load<SoundEffect>("canonShot2");
         }
         public virtual void Initialize(Vector2 position, int vitesseSpawnBouletInitial, float rotation)
         {
@@ -56,17 +59,21 @@ namespace Paratrooper
 
         public override void Update(GameTime gameTime)
         {
+            
             //On détermine l'axe de rotation du canon
             spriteOriginCanon = new Vector2(_texture.Width / 2, _texture.Height / 2 + 10);
 
             //Mouvement du canon
-            if (Keyboard.GetState().IsKeyDown(Keys.Right)) Rotation += 0.04f;
-            if (Keyboard.GetState().IsKeyDown(Keys.Left)) Rotation -= 0.04f;
+            if (Keyboard.GetState().IsKeyDown(Keys.D)) Rotation += 0.04f;
+            if (Keyboard.GetState().IsKeyDown(Keys.A)) Rotation -= 0.04f;
 
             //Apparition boulet avec le bon angle et après un interval de temps prédéfini
             if (!Keyboard.GetState().IsKeyDown(Keys.Space) && gameTime.TotalGameTime - _previousBouletSpawnTime >= BouletSpawnTime)
             {
                 _previousBouletSpawnTime = gameTime.TotalGameTime;
+
+                canonShot.Play(0.01f, 0.0f, 0.0f);
+
                 //boulet direction;
                 float rotation = Rotation + 1.6f;
 

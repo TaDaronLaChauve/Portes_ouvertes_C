@@ -263,3 +263,8 @@ C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratroop
 C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CopyComplete
 C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.exe
 C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\CFPT.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\SchemaBoutons.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\canonShot2.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\man-dying1.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\man-dying2.xnb
