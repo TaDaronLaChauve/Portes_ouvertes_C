@@ -82,7 +82,6 @@ namespace Paratrooper
 
             Content.RootDirectory = "Content";
         }
-
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
         /// This is where it can query for any required services and load any non-graphic
@@ -99,7 +98,6 @@ namespace Paratrooper
 
             bonus = new Bonus(this);
             bonusCanon = new BonusCanon(this);
-
             
             listeParachutistes = new List<Parachutiste>();
             listeParachutistesImmobile = new List<Parachutiste>();
@@ -111,8 +109,6 @@ namespace Paratrooper
             //A quel intervale de temps les ennemies tombes
             parachuteSpawnTime = TimeSpan.FromMilliseconds(1500);
             previousParachuteSpawnTime = TimeSpan.Zero;
-
-            
             
             //ParallaxingBackground
             bgGrosNuage = new ParallaxingBackground();
@@ -140,7 +136,6 @@ namespace Paratrooper
 
             base.Initialize();
         }
-
         /// <summary>
         /// LoadContent will be called once per game and is the place to load
         /// all of your content.
@@ -184,10 +179,7 @@ namespace Paratrooper
                 restartButton,
                 quitButton,
             };
-
-
         }
-
         /// <summary>
         /// UnloadContent will be called once per game and is the place to unload
         /// game-specific content.
@@ -196,7 +188,6 @@ namespace Paratrooper
         {
             // TODO: Unload any non ContentManager content here
         }
-
         /// <summary>
         /// Allows the game to run logic such as updating the world,
         /// checking for collisions, gathering input, and playing audio.
@@ -226,8 +217,6 @@ namespace Paratrooper
                 UpdateBoulet(gameTime);
                 UpdateParachutiste(gameTime);
             }
-            
-            
             bgGrosNuage.Update(gameTime);
             bgPetitsNuages.Update(gameTime);
             //Si le nombre d'ennemis maximal à terre a été atteint alors on update nos boutons pour les afficher ensuite
@@ -246,15 +235,14 @@ namespace Paratrooper
                 {
                     canon.BouletSpawnTime = TimeSpan.FromMilliseconds(canon.VitesseSpawnBouletInitial);
                 }
-                
             }
             //Petit bonus fun caché pour ajouter énormément de canon :)
-            //if (Keyboard.GetState().IsKeyDown(Keys.C) || Keyboard.GetState().IsKeyDown(Keys.N))
-            //{
-            //    listeCanons.Add(new Canon(this));
-            //    listeCanons[listeCanons.Count - 1].LoadContent(Content.Load<Texture2D>("canonTrans"));
-            //    listeCanons[listeCanons.Count - 1].Initialize(new Vector2(rd.Next(1, 105) * (GraphicsDevice.Viewport.Width / 100), 7 * (GraphicsDevice.Viewport.Height / 8)), 400, listeCanons[0].Rotation);
-            //}
+            if (Keyboard.GetState().IsKeyDown(Keys.C) || Keyboard.GetState().IsKeyDown(Keys.NumPad6))
+            {
+                listeCanons.Add(new Canon(this));
+                listeCanons[listeCanons.Count - 1].LoadContent(Content.Load<Texture2D>("canonTrans"));
+                listeCanons[listeCanons.Count - 1].Initialize(new Vector2(rd.Next(1, 105) * (GraphicsDevice.Viewport.Width / 100), 7 * (GraphicsDevice.Viewport.Height / 8)), 400, listeCanons[0].Rotation);
+            }
             base.Update(gameTime);
         }
         /// <summary>
@@ -267,7 +255,6 @@ namespace Paratrooper
             {
                 canon.Update(gameTime);
             }
-            
         }
         /// <summary>
         /// On met à jours les boulets de canon et on détectes les collisions avec les bonus et les parachutistes
@@ -275,7 +262,6 @@ namespace Paratrooper
         /// <param name="gameTime"></param>
         private void UpdateBoulet(GameTime gameTime)
         {
-
             //Mettre à jours chaque boulet pour les faire avancer
             // Et faire la collision avec parachutiste
             foreach (Canon canon in listeCanons)
@@ -351,7 +337,6 @@ namespace Paratrooper
                 anciensTempsEntreNiveaux = gameTime.TotalGameTime;
                 nbParachutistesMaxParVague++;
             }
-
             //Pour faire apparaître les ennemis à un interval de temps précis
             if (gameTime.TotalGameTime - previousParachuteSpawnTime >= parachuteSpawnTime)
             {
@@ -370,7 +355,7 @@ namespace Paratrooper
             {
                 p.Update(gameTime);
                 //Arrive en bas
-                if (p._hitBox.Bottom >= GraphicsDevice.Viewport.Height - (GraphicsDevice.Viewport.Height / 9.5f) - (listeCanons[listeCanons.Count-1]._height / 2) && p._hitBox.Center.X > listeCanons[listeCanons.Count - 1]._position.X - listeCanons[listeCanons.Count - 1]._width/2 && p._hitBox.Center.X < listeCanons[listeCanons.Count - 1]._position.X + listeCanons[listeCanons.Count - 1]._width /2)
+                if (p._hitBox.Bottom >= GraphicsDevice.Viewport.Height - (GraphicsDevice.Viewport.Height / 9.5f) - (listeCanons[0]._height / 2) && p._hitBox.Center.X > listeCanons[0]._position.X - listeCanons[0]._width/2 && p._hitBox.Center.X < listeCanons[0]._position.X + listeCanons[0]._width /2)
                     ArretParachutiste(p);
                 else if (p._hitBox.Bottom >= GraphicsDevice.Viewport.Height - (GraphicsDevice.Viewport.Height / 9.5f))
                     ArretParachutiste(p);
@@ -447,7 +432,6 @@ namespace Paratrooper
                         b.Draw(spriteBatch);
                 }
                 
-
                 foreach (Parachutiste p in listeParachutistes)
                     p.Draw(spriteBatch);
 
@@ -478,7 +462,6 @@ namespace Paratrooper
             {
                 canon.Draw(spriteBatch);
             }
-            
 
             spriteBatch.End();
             base.Draw(gameTime);
@@ -501,6 +484,5 @@ namespace Paratrooper
         {
             Exit();
         }
-
     }
 }

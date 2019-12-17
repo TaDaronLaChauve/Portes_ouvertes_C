@@ -4,21 +4,21 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/Arial.spritefont</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/backgroundSolSocle.jpg</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/ballTrans.png</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/bonus.png</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/canonShot2.wav</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/canonTrans.png</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/CFPT.png</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/GrosNuage.png</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/Images/Button.png</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/man-dying1.wav</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/man-dying2.wav</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/persoTrans.png</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/PetitsNuages.png</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/SchemaBoutons.png</File>
-    <File>C:/Users/wohlersl/Desktop/portesOuvertes/Portes_ouvertes_C/Paratrooper/Paratrooper/Content/skyDiverTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/Arial.spritefont</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/backgroundSolSocle.jpg</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/ballTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/bonus.png</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/canonShot2.wav</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/canonTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/CFPT.png</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/GrosNuage.png</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/Images/Button.png</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/man-dying1.wav</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/man-dying2.wav</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/persoTrans.png</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/PetitsNuages.png</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/SchemaBoutons.png</File>
+    <File>C:/Users/wohlersl/Desktop/Portes_ouvertes_C_Paratrooper/Paratrooper/Paratrooper/Content/skyDiverTrans.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
