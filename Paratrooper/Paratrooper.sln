@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paratrooper", "Paratrooper\Paratrooper.csproj", "{3D7E7DB0-F7B1-4C15-8F29-63F92AB55FF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D7E7DB0-F7B1-4C15-8F29-63F92AB55FF8}.Debug|x86.ActiveCfg = Debug|x86
+		{3D7E7DB0-F7B1-4C15-8F29-63F92AB55FF8}.Debug|x86.Build.0 = Debug|x86
+		{3D7E7DB0-F7B1-4C15-8F29-63F92AB55FF8}.Release|x86.ActiveCfg = Release|x86
+		{3D7E7DB0-F7B1-4C15-8F29-63F92AB55FF8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8E86D35-5DFF-4925-A4FA-94FEA0A6649A}
+	EndGlobalSection
+EndGlobal

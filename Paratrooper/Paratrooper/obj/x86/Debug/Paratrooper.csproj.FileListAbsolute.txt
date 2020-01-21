@@ -1,0 +1,310 @@
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\backgroundSolSocle.xnb
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\ballTrans.xnb
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\canonTrans.xnb
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\skyDiverTrans.xnb
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csprojAssemblyReference.cache
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.Properties.Resources.resources
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.GenerateResource.cache
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CoreCompileInputs.cache
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CopyComplete
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\source\repos\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\backgroundSolSocle.xnb
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\ballTrans.xnb
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\canonTrans.xnb
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\skyDiverTrans.xnb
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csprojAssemblyReference.cache
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.Properties.Resources.resources
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csproj.GenerateResource.cache
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CoreCompileInputs.cache
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CopyComplete
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\persoTrans.xnb
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\GrosNuage.xnb
+C:\Users\wohlersl\source\repos\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\PetitsNuages.xnb
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\backgroundSolSocle.xnb
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\ballTrans.xnb
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\canonTrans.xnb
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\GrosNuage.xnb
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\persoTrans.xnb
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\PetitsNuages.xnb
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\skyDiverTrans.xnb
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Paratrooper.exe
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Paratrooper.pdb
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.exe
+C:\Users\Administrator\Desktop\Paratrooper - Copie\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\backgroundSolSocle.xnb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\ballTrans.xnb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\canonTrans.xnb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\GrosNuage.xnb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\persoTrans.xnb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\PetitsNuages.xnb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\skyDiverTrans.xnb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csprojAssemblyReference.cache
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.Properties.Resources.resources
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csproj.GenerateResource.cache
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CoreCompileInputs.cache
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CopyComplete
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\Images\Button.xnb
+C:\Users\wohlersl\Desktop\ParatrooperV3e\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\bonus.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\backgroundSolSocle.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\ballTrans.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\bonus.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\canonTrans.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\GrosNuage.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\persoTrans.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\PetitsNuages.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\skyDiverTrans.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Content\Images\Button.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Paratrooper.exe
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\Paratrooper.pdb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.exe
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper - Copie\Paratrooper\obj\x86\Debug\Paratrooper.pdb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\backgroundSolSocle.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\ballTrans.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\bonus.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\canonTrans.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\GrosNuage.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\persoTrans.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\PetitsNuages.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\skyDiverTrans.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\Images\Button.xnb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Paratrooper.exe
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Paratrooper.pdb
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.exe
+C:\Users\Administrator\Desktop\ParatrooperFinalV6\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\Images\Button.xnb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\backgroundSolSocle.xnb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\ballTrans.xnb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\bonus.xnb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\canonTrans.xnb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\GrosNuage.xnb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\persoTrans.xnb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\PetitsNuages.xnb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\skyDiverTrans.xnb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csprojAssemblyReference.cache
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.Properties.Resources.resources
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.GenerateResource.cache
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CoreCompileInputs.cache
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CopyComplete
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\Desktop\Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\Images\Button.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\backgroundSolSocle.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\ballTrans.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\bonus.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\canonTrans.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\GrosNuage.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\persoTrans.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\PetitsNuages.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\skyDiverTrans.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csprojAssemblyReference.cache
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.Properties.Resources.resources
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.GenerateResource.cache
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CoreCompileInputs.cache
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CopyComplete
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\CFPT.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\SchemaBoutons.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\canonShot2.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\man-dying1.xnb
+C:\Users\wohlersl\Desktop\portesOuvertes\Portes_ouvertes_C\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\man-dying2.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\Images\Button.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\backgroundSolSocle.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\ballTrans.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\bonus.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\canonShot2.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\canonTrans.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\CFPT.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\GrosNuage.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\man-dying1.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\man-dying2.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\persoTrans.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\PetitsNuages.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\SchemaBoutons.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Content\skyDiverTrans.xnb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\Paratrooper.pdb
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csprojAssemblyReference.cache
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.Properties.Resources.resources
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.GenerateResource.cache
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CoreCompileInputs.cache
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.csproj.CopyComplete
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.exe
+C:\Users\wohlersl\Desktop\Portes_ouvertes_C_Paratrooper\Paratrooper\Paratrooper\obj\x86\Debug\Paratrooper.pdb
